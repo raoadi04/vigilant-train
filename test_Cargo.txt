@@ -1,0 +1,8 @@
+foo
+├── Cargo.toml
+├── src
+│   └── main.rs
+│   └── lib.rs
+└── tests
+    ├── my_test.rs
+    └── my_other_test.rs
